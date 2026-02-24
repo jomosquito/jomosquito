@@ -30,7 +30,7 @@ My experience includes building **multi-tenant web applications**, **GIS platfor
 ## 📌 Featured Projects
 
 ### Amazon Review Search Engine `NLP` `DEC 2025`
-An NLP-powered search engine built using boolean retrieval as a baseline, then layered with sentiment lexicon classification and a multi-stage pipeline featuring sentence-level aspect-opinion extraction and rating correlation to improve search precision over standard keyword methods.
+An NLP-powered search engine that implements boolean retrieval (AND, OR, NOT operators) as a baseline, then layers sentiment lexicon classification using positive/negative word dictionaries to filter results by opinion polarity. The multi-stage pipeline performs sentence-level aspect-opinion extraction to ensure query terms co-occur within the same sentence, combined with rating correlation to validate sentiment alignment. This approach significantly improved search precision over standard keyword matching methods.
 
 🔧 **Technologies Used:** Python, NLTK, Pandas, Regular Expressions
 
@@ -39,7 +39,7 @@ An NLP-powered search engine built using boolean retrieval as a baseline, then l
 ---
 
 ### GIS Municipal Utility Management Platform `FULL-STACK` `2025-PRESENT`
-A multi-tenant GIS platform serving 12+ Texas utility districts with geospatial visualization, emergency response system design (valve isolation analysis), role-based access control, and real-time data processing for municipal infrastructure management.
+A multi-tenant GIS platform serving 12+ Texas utility districts with interactive Google Maps integration for geospatial visualization of water, sewer, and storm infrastructure. Features include dynamic GeoJSON layer management, valve isolation analysis for emergency response enabling field crews to identify affected customers during water main breaks, role-based access control with Auth0 authentication, and real-time feature search across large geospatial datasets. The backend uses Node.js/Express with Azure Blob Storage for geospatial data, while the frontend is built with React/TypeScript.
 
 🔧 **Technologies Used:** React, TypeScript, Node.js, Express, Azure, Google Maps API, Auth0, GitHub Actions
 
@@ -48,18 +48,18 @@ A multi-tenant GIS platform serving 12+ Texas utility districts with geospatial 
 ---
 
 ### Client Event Management Platform `FULL-STACK` `FEB 2026`
-A full-stack application with Excel bulk import featuring a 3-stage workflow (parse, duplicate detection, conflict resolution), Auth0 JWT authentication, Prisma ORM with multi-environment database support, and Material UI interface with CRUD operations.
+A full-stack application featuring Excel bulk import with a 3-stage data processing workflow (parse, duplicate detection, conflict resolution) that handles large datasets efficiently. Implements Auth0 JWT authentication for secure access, Prisma ORM for type-safe database queries with multi-environment support (development, staging, production), and PostgreSQL for relational data storage. The frontend uses React with Material UI components and provides full CRUD operations. Deployed on Azure with CI/CD pipelines via GitHub Actions.
 
-🔧 **Technologies Used:** React, TypeScript, Node.js, Express, Prisma ORM, Auth0, PostgreSQL, Azure
+🔧 **Technologies Used:** React, TypeScript, Node.js, Express, Prisma ORM, Auth0, PostgreSQL, Azure, GitHub Actions
 
 🔗 [View Repository](https://github.com/jomosquito/ClientWebAppDatabase)
 
 ---
 
 ### CoogMusic `TEAM PROJECT` `FEB 2025-MAY 2025`
-A Node.js-based music streaming platform developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI.
+A Node.js-based music streaming platform developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses Azure MySQL for structured data storage and Azure Blob Storage for media file handling, while the frontend is built with React and styled using CSS for a responsive experience.
 
-🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL, GitHub Actions
+🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
 
 🔗 [View Repository](https://github.com/selbeyhan/CoogMusic)
 
