@@ -23,7 +23,7 @@ My experience includes building **multi-tenant web applications**, **GIS platfor
 
 ## 🚀 Technologies I Work With
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jomosquito&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jomosquito&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
