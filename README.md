@@ -2,7 +2,7 @@
 
 I am a **Computer Science graduate from the University of Houston** with a specialization in **cybersecurity**, graduating in December 2025.
 
-I currently work as a **System Support Analyst at DCCM**, an engineering consulting firm in Houston, where I was recently named an **AI lead**. I implemented Azure AI Document Intelligence with custom extraction models and develop enterprise applications serving 100+ employees.
+I currently work as a **System Support Analyst at DCCM**, an engineering consulting firm in Houston.. I implemented Azure AI Document Intelligence with custom extraction models and develop enterprise applications serving 100+ employees.
 
 I enjoy solving complex problems through software development and exploring how AI can transform business operations. My passions include full-stack development, AI/ML implementation, and building tools that make real-world impact.
 
