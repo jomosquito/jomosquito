@@ -1,12 +1,7 @@
 # Hi, I'm Joseph Mascardo
 
-I am a **Computer Science graduate from the University of Houston** with a specialization in **cybersecurity**, graduating in December 2025.
-
-I currently work as a **System Support Analyst at DCCM**, an engineering consulting firm in Houston.. I implemented Azure AI Document Intelligence with custom extraction models and develop enterprise applications serving 100+ employees.
-
-I enjoy solving complex problems through software development and exploring how AI can transform business operations. My passions include full-stack development, AI/ML implementation, and building tools that make real-world impact.
-
-My experience includes building **multi-tenant web applications**, **GIS platforms**, and **NLP-powered search systems**. I focus on creating scalable solutions using modern technologies like React, Node.js, and Azure.
+I'm a Full-Stack Developer based in Houston, TX with a B.S. in Computer Science (Cybersecurity Specialization) from the University of Houston.
+I build and ship production applications across the full stack — React/TypeScript frontends, Node.js APIs, Python automation pipelines, and Azure-hosted infrastructure. Recent work includes a multi-tenant GIS platform serving 12+ municipal utility districts, an Azure AI document processing pipeline, and a Python NLP search engine.
 
 👉 Check out my repositories below to see my work!
 
